@@ -1,0 +1,19 @@
+{
+  "name": "code-challenge",
+  "version": "1.0.0",
+  "description": "Kindly **do not fork** this repository as your responses may be publicly linked to this repository.\r Please submit your application along with the solutions attached or linked.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "typescript": "^5.5.3"
+  }
+}
